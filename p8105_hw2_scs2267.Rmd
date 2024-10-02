@@ -1,0 +1,6 @@
+---
+title: "data_manipulation"
+output: github_document
+date: "2024-10-2"
+---
+
